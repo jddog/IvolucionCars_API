@@ -1,0 +1,7 @@
+C:\Proyectos\Personales\IvolucionCars\Dominio\IC.Dominio\bin\Debug\IC.Dominio.dll
+C:\Proyectos\Personales\IvolucionCars\Dominio\IC.Dominio\bin\Debug\IC.Dominio.pdb
+C:\Proyectos\Personales\IvolucionCars\Dominio\IC.Dominio\obj\Debug\IC.Dominio.csproj.CoreCompileInputs.cache
+C:\Proyectos\Personales\IvolucionCars\Dominio\IC.Dominio\obj\Debug\IC.Dominio.dll
+C:\Proyectos\Personales\IvolucionCars\Dominio\IC.Dominio\obj\Debug\IC.Dominio.pdb
+C:\Proyectos\Personales\IvolucionCars\Dominio\IC.Dominio\obj\Debug\IC.Dominio.csprojAssemblyReference.cache
+C:\Proyectos\Personales\IvolucionCars\Dominio\IC.Dominio\bin\Debug\IC.Dominio.dll.config

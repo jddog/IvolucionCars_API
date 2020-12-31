@@ -1,0 +1,17 @@
+C:\Proyectos\Personales\IvolucionCars\ServiciosAplicacion\IC.ServiciosAplicacion\bin\Debug\IC.ServiciosAplicacion.dll
+C:\Proyectos\Personales\IvolucionCars\ServiciosAplicacion\IC.ServiciosAplicacion\bin\Debug\IC.ServiciosAplicacion.pdb
+C:\Proyectos\Personales\IvolucionCars\ServiciosAplicacion\IC.ServiciosAplicacion\obj\Debug\IC.ServiciosAplicacion.csproj.CoreCompileInputs.cache
+C:\Proyectos\Personales\IvolucionCars\ServiciosAplicacion\IC.ServiciosAplicacion\obj\Debug\IC.ServiciosAplicacion.dll
+C:\Proyectos\Personales\IvolucionCars\ServiciosAplicacion\IC.ServiciosAplicacion\obj\Debug\IC.ServiciosAplicacion.pdb
+C:\Proyectos\Personales\IvolucionCars\ServiciosAplicacion\IC.ServiciosAplicacion\bin\Debug\IC.DTOs.dll
+C:\Proyectos\Personales\IvolucionCars\ServiciosAplicacion\IC.ServiciosAplicacion\bin\Debug\IC.DTOs.pdb
+C:\Proyectos\Personales\IvolucionCars\ServiciosAplicacion\IC.ServiciosAplicacion\obj\Debug\IC.ServiciosAplicacion.csprojAssemblyReference.cache
+C:\Proyectos\Personales\IvolucionCars\ServiciosAplicacion\IC.ServiciosAplicacion\obj\Debug\IC.ServiciosAplicacion.csproj.CopyComplete
+C:\Proyectos\Personales\IvolucionCars\ServiciosAplicacion\IC.ServiciosAplicacion\bin\Debug\IC.Dominio.dll
+C:\Proyectos\Personales\IvolucionCars\ServiciosAplicacion\IC.ServiciosAplicacion\bin\Debug\IC.Infraestructura.dll
+C:\Proyectos\Personales\IvolucionCars\ServiciosAplicacion\IC.ServiciosAplicacion\bin\Debug\EntityFramework.dll
+C:\Proyectos\Personales\IvolucionCars\ServiciosAplicacion\IC.ServiciosAplicacion\bin\Debug\IC.Dominio.pdb
+C:\Proyectos\Personales\IvolucionCars\ServiciosAplicacion\IC.ServiciosAplicacion\bin\Debug\IC.Infraestructura.pdb
+C:\Proyectos\Personales\IvolucionCars\ServiciosAplicacion\IC.ServiciosAplicacion\bin\Debug\IC.Infraestructura.dll.config
+C:\Proyectos\Personales\IvolucionCars\ServiciosAplicacion\IC.ServiciosAplicacion\bin\Debug\EntityFramework.xml
+C:\Proyectos\Personales\IvolucionCars\ServiciosAplicacion\IC.ServiciosAplicacion\bin\Debug\IC.Dominio.dll.config

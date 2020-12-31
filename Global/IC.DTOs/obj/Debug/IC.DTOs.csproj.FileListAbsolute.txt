@@ -1,0 +1,6 @@
+C:\Proyectos\Personales\IvolucionCars\Global\IC.DTOs\bin\Debug\IC.DTOs.dll
+C:\Proyectos\Personales\IvolucionCars\Global\IC.DTOs\bin\Debug\IC.DTOs.pdb
+C:\Proyectos\Personales\IvolucionCars\Global\IC.DTOs\obj\Debug\IC.DTOs.csprojAssemblyReference.cache
+C:\Proyectos\Personales\IvolucionCars\Global\IC.DTOs\obj\Debug\IC.DTOs.csproj.CoreCompileInputs.cache
+C:\Proyectos\Personales\IvolucionCars\Global\IC.DTOs\obj\Debug\IC.DTOs.dll
+C:\Proyectos\Personales\IvolucionCars\Global\IC.DTOs\obj\Debug\IC.DTOs.pdb
