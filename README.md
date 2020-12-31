@@ -30,3 +30,70 @@ Lanzar Servidor
 - Asegurarse que el proyecto Aplicaciones/WebApi/IC.API se encuentre como proyecto inicial, de no ser asi dar click derecho y seleccionar la opcion "Establecer como proyecto de inicio"
 - Correr el proyecto con Visual Studio y este automaticamente creara la BD , junto a sus tablas y datos de semilla iniciales
 - Verificar en Sql Server Managment Studio, la creacion de la Bd junto a sus tablas
+
+# Metodos del Servicio
+
+- Para consultar la fecha actual, se debe enviar una peticion de tipo GET a la siguiente url
+
+```sh
+End point:
+https://localhost:44333/api/utils/ObtenerHoraActual
+
+```
+
+- Para dividir dos numeros, se debe enviar una peticion de tipo POST a la siguiente url
+
+```sh
+header: {"Content-Type" : "application/json"}
+
+Body: {
+	"primerNumero":2,
+	 "segundoNumero":"2"
+}
+
+End point:
+https://localhost:44333/api/utils/ObtenerHoraActual
+
+```
+
+- Para consultar todos los vehiculos, se debe enviar una peticion de tipo GET a la siguiente url
+
+```sh
+End point:
+https://localhost:44333/api/cars/ObtenerVehiculos
+
+```
+
+- Para consultar los tipos de vehiculos que se crearon con semillas desde el servicio, se debe enviar una peticion de tipo GET a la siguiente url
+
+```sh
+End point:
+https://localhost:44333/api/cars/ObtenerTiposVehiculos
+
+```
+
+- Para consultar las marcas de vehiculos que se crearon con semillas desde el servicio, se debe enviar una peticion de tipo GET a la siguiente url
+
+```sh
+End point:
+https://localhost:44333/api/cars/ObtenerMarcasVehiculos
+
+```
+
+- Para registrar un vehiculo, se debe enviar una peticion de tipo POST a la siguiente url
+
+```sh
+header: {"Content-Type" : "application/json"}
+
+Body: {
+	"Modelo" : "Sail",
+	"Anno" : 2017,
+	"Cilindraje" : 2,
+	"codigoMarca" : "AUDI",
+	"codigoTipo" : "VEHI"
+}
+
+End point:
+https://localhost:44333/api/cars/RegistrarVehiculo
+
+```
